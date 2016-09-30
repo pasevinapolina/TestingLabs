@@ -1,14 +1,15 @@
+package lab1;
+
 import com.codeborne.selenide.CollectionCondition;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.*;
 
 /**
- * Created by user on 30.09.2016.
+ *
  */
 public class WebsiteTest {
 
