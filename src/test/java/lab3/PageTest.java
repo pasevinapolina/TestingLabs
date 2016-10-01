@@ -21,7 +21,7 @@ public class PageTest {
     @DataProvider
     public static Object[][] loginData() {
         return new Object[][] {
-                {"rigiemp@gmail.com", "344lowe11", "pasevinapolina"},
+                {"CORRECT EMAIL", "CORRECT PASSWORD", "CORRECT USERNAME"},
                 {"lalal", "lalala", "lalala"}
         };
     }
