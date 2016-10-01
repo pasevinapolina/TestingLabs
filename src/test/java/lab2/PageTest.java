@@ -23,7 +23,7 @@ public class PageTest {
         Configuration.browser = browserType;
     }
 
-    @Test
+    //@Test
     public void pageTest() {
         configSelenide();
         open(siteToTest);
